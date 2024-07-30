@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.env
+
+*_grpc.py
+*_pb2.py
+*.pyi

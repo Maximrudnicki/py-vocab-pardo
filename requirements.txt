@@ -1,0 +1,6 @@
+alembic
+sqlalchemy
+grpcio
+grpcio-tools
+python-dotenv
+psycopg2-binary
